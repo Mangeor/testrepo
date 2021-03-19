@@ -1,2 +1,2 @@
 # dISPLAY THE OUTPUT
-PRINT("New Python file")
+print("This Python file has been edited in Theia")
